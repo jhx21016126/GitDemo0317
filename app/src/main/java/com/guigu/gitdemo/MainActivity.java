@@ -13,5 +13,6 @@ public class MainActivity extends Activity {
         Log.e("TAG", "TEST");
         Log.e("TAG", "TEST2");
         Log.e("TAG", "TEST3");
+        Log.e("TAG", "TEST4");
     }
 }
